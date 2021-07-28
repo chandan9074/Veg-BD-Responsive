@@ -159,3 +159,24 @@ a:visited {
   border-radius: 1rem;
   background-color: rgb(217, 237, 248);
 }
+
+/* details part  */
+
+.details-cata-img {
+  width: 5rem;
+}
+.detais-img {
+  width: 35rem;
+}
+.details-card {
+  border-radius: 1rem;
+  box-shadow: 0 0 0.5rem rgb(202, 201, 201);
+  margin-top: 1rem;
+  padding: 1rem 0.5rem;
+}
+.details-title {
+  font-size: 1.7rem;
+}
+.details-subtitle {
+  font-size: 1rem;
+}
