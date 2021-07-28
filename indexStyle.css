@@ -23,7 +23,7 @@ a:visited {
   font-weight: bold;
   color: rgb(124, 84, 91);
 }
-.nav-btn:hover{
+.nav-btn:hover {
   color: rgb(78, 48, 53);
 }
 .contact-btn {
@@ -80,4 +80,42 @@ a:visited {
 .home-btn:hover .home-btn-arrow {
   transform: rotate(450deg);
   margin-left: 1rem;
+}
+
+/* groceries part  */
+
+.groceries-img-bg {
+  background-color: rgb(209, 206, 206);
+  border-radius: 0.5rem;
+}
+.groceries-img {
+  width: 10rem;
+  height: 15rem;
+  margin: 0 auto;
+}
+.card {
+  border: none;
+  box-shadow: 0 0 1rem gray;
+  padding: 1rem;
+}
+.star-colour {
+  color: rgb(233, 210, 0);
+}
+.star-blank-colour {
+  color: gray;
+}
+.groceries-price {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: bold;
+  color: rgb(236, 112, 40);
+}
+.order-btn {
+  background-image: linear-gradient(tomato, salmon);
+  padding: 0.3rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 0 0.5rem rgb(165, 165, 165);
 }
