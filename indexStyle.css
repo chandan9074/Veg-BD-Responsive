@@ -130,3 +130,32 @@ a:visited {
   cursor: pointer;
   box-shadow: 0 0 0.5rem rgb(165, 165, 165);
 }
+
+/* offer part  */
+
+.offer-part {
+  position: relative;
+  margin-top: 2rem;
+  height: 30rem;
+}
+.offer-img {
+  width: 20rem;
+}
+.monthly-offer {
+  /* position: absolute; */
+  width: 70%;
+  padding: 2rem;
+  box-shadow: 0 0 1rem rgb(201, 201, 201);
+  border-radius: 1rem;
+  background-color: rgb(217, 237, 248);
+}
+.weekly-offer {
+  position: absolute;
+  top: 14rem;
+  left: 20rem;
+  width: 70%;
+  padding: 2rem;
+  box-shadow: 0 0 1rem rgb(201, 201, 201);
+  border-radius: 1rem;
+  background-color: rgb(217, 237, 248);
+}
