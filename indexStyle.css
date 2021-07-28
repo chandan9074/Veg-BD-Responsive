@@ -104,6 +104,17 @@ a:visited {
 .star-blank-colour {
   color: gray;
 }
+.see-more-btn {
+  background-image: linear-gradient(rgb(247, 106, 90), rgb(226, 124, 105));
+  padding: 0.3rem 1rem;
+  border-radius: 0.5rem;
+  color: aliceblue;
+  font-weight: bold;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 0 0.5rem rgb(165, 165, 165);
+}
 .groceries-price {
   margin: 0;
   font-size: 2rem;
