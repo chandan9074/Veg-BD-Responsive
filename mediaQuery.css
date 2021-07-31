@@ -19,4 +19,17 @@
   .home-btn {
     font-size: 1rem;
   }
+
+  /* offer part  */
+  .offer-part {
+    position: unset;
+    height: auto;
+  }
+  .monthly-offer {
+    width: 100%;
+  }
+  .weekly-offer {
+    position: unset;
+    width: 100%;
+  }
 }
