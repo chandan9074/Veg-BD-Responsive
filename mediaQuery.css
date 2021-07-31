@@ -1,0 +1,22 @@
+/* mobile and small ipad devics  */
+
+@media only screen and (min-width: 0px) and (max-width: 688px) {
+  /* home part  */
+
+  .home-title {
+    font-size: 3rem;
+  }
+  .home-subtitle-1 {
+    font-size: 3rem;
+  }
+  .home-subtitle-2 {
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
+    word-spacing: 1rem;
+    color: rgb(83, 83, 83);
+  }
+  .home-btn {
+    font-size: 1rem;
+  }
+}
